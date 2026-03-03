@@ -516,6 +516,35 @@
   background-color: #f9fafb;
 }
 
+/* Emotional Journey Row */
+.journeyTable .emotionalRow {
+  background-color: #fef3c7;
+}
+
+.journeyTable .painPointRow {
+  background-color: #fee2e2;
+}
+
+.journeyTable .opportunityRow {
+  background-color: #d1fae5;
+}
+
+/* Design System Section */
+.designSystemContainer {
+  margin-top: 2rem;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.designSystemImage {
+  width: 100%;
+  height: auto;
+  border-radius: 0.9rem;
+  border: 1px solid var(--border-subtle);
+  background-color: var(--bg-elevated);
+}
+
 /* Wireframe Section */
 
 .wireframeGrid {
